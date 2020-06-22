@@ -12,7 +12,8 @@ public class Card extends Actor
     private int height;
     private String cardName;
     
-    public Card(double scale, String naipe, int value){
+    public Card(double scale, String naipe, String value)
+    {
         String path = "images/";
         cardName = "card"+naipe+value+".png";
         this.setImage(path+cardName);

@@ -1,7 +1,18 @@
 #BlueJ class context
 comment0.target=MyWorld
-comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
 comment1.target=MyWorld()
-comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
-numComments=2
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=v
+comment3.target=void\ ordena(java.lang.Integer[])
+comment4.params=v
+comment4.target=void\ insertionSort(java.lang.Integer[])
+comment5.params=v
+comment5.target=void\ selectionSort(java.lang.Integer[])
+comment6.params=
+comment6.target=void\ cardShow()
+comment7.params=
+comment7.target=void\ cardCreator()
+numComments=8
